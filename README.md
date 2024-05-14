@@ -1,13 +1,11 @@
-# Boludle
+# Bibliadle
 
-https://www.boludle.com/
-
-Fork from https://github.com/cwackerfuss/react-wordle
+Open-source project
+Forked from https://www.boludle.com/
 
 To deploy:
 
 ```bash
-$> cd boludle
 $> npm install
 $> npm run deploy
 ```

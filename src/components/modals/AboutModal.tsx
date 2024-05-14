@@ -13,19 +13,19 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
       handleClose={handleClose}
     >
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        este es un juego argentino basado en el código open-source de Wordle -{' '}
+        Este es un juego bíblico basado en el código open-source de Wordle y Boludle -{' '}
         <a
-          href="https://github.com/sjaquemate/boludle"
+          href="https://github.com/panchomorle/bibliadle"
           className="underline font-bold"
         >
-          mira el código argentino acá
+          Click aquí para ver el código de Bibliadle
         </a>{' '}
         -{' '}
         <a
           href="https://github.com/cwackerfuss/react-wordle"
           className="underline font-bold"
         >
-          y el código original acá
+          Click aquí para ver el código original
         </a>{' '}
       </p>
     </BaseModal>
