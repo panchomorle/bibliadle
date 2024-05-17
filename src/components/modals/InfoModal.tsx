@@ -10,7 +10,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
   return (
     <BaseModal title="cómo jugar" isOpen={isOpen} handleClose={handleClose}>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        Tienes 6 intentos para adivinar la palabra del día. después de cada
+        La palabra del día tiene 5 letras. Tienes 6 intentos para adivinar todas las letras. Después de cada
         intento, el color de las teclas se modificará para mostrarte qué tan
         cerca estás de acertar.
       </p>
@@ -23,7 +23,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <Cell value="S" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        la palabra contiene la letra J y está en el lugar correcto.
+        La palabra contiene la letra J y está en el lugar correcto.
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
@@ -34,7 +34,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <Cell value="O" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        la palabra contiene la letra E pero está en el lugar incorrecto.
+        La palabra contiene la letra E pero está en el lugar incorrecto.
       </p>
 
       <div className="flex justify-center mb-1 mt-4">
@@ -45,7 +45,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <Cell value="S" />
       </div>
       <p className="text-sm text-gray-500 dark:text-gray-300">
-        la palabra no contiene la letra C.
+        La palabra no contiene la letra C.
       </p>
 
       <p className="mt-6 text-sm text-gray-500 dark:text-gray-300">

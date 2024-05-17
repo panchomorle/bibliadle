@@ -269,6 +269,11 @@ const DEFINITIONS: Definition[] = [
     "word": "Lugar",
     "definition": "Espacio ocupado o que puede ser ocupado por un cuerpo cualquiera.",
     "example": "En la casa de mi Padre muchas moradas hay; si así no fuera, yo os lo hubiera dicho; voy, pues, a preparar lugar para vosotros. - Juan 14:2-4" 
+  },
+  { 
+    "word": "amigo",
+    "definition": "Afecto personal, puro y desinteresado, compartido con otra persona, que nace y se fortalece con el trato.",
+    "example": "Nadie tiene amor más grande que el dar la vida por sus amigos. - Juan 15:13" 
   }
 ]
 
