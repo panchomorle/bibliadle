@@ -119,12 +119,8 @@ export const StatsModal = ({
 
       <div className="mt-5">
         mandanos sugerencias via{' '}
-        <a href="https://twitter.com/boludle" className="underline font-bold">
-          Twitter
-        </a>{' '}
-        o via{' '}
-        <a href="mailto:info@boludle.com" className="underline font-bold">
-          Mail
+        <a href="https://www.instagram.com/bibliadle/" className="underline font-bold">
+          Instagram
         </a>{' '}
       </div>
 

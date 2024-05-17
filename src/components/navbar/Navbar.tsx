@@ -1,6 +1,6 @@
 import { ChartBarIcon, InformationCircleIcon } from '@heroicons/react/outline'
 import { GAME_TITLE } from '../../constants/strings'
-import ImgMate from '../../assets/mate.png'
+import ImgBible from '../../assets/bibleico.png'
 
 type Props = {
   setIsInfoModalOpen: (value: boolean) => void
@@ -21,7 +21,7 @@ export const Navbar = ({ setIsInfoModalOpen, setIsStatsModalOpen }: Props) => {
       </div> */}
       <div className="navbar-content px-5">
         <InformationCircleIcon
-          className="h-6 w-6 mr-2 cursor-pointer dark:stroke-white"
+          className="h-6 w-6 mr-2 text-white cursor-pointer dark:stroke-white"
           onClick={() => setIsInfoModalOpen(true)}
         />
 
@@ -35,14 +35,14 @@ export const Navbar = ({ setIsInfoModalOpen, setIsStatsModalOpen }: Props) => {
         <div className="flex">
           <p className="text-xl font-bold text-white">{GAME_TITLE}</p>
           <img
-            className="h-6 w-6 ml-1 cursor-pointer dark:stroke-white"
-            src={ImgMate}
+            className="h-6 w-6 ml-1 mt-1 cursor-pointer dark:stroke-white"
+            src={ImgBible}
             alt=""
           />
         </div>
         <div className="right-icons">
           <ChartBarIcon
-            className="h-6 w-6 mr-3 cursor-pointer dark:stroke-white"
+            className="h-6 w-6 mr-3 text-white cursor-pointer dark:stroke-white"
             onClick={() => setIsStatsModalOpen(true)}
           />
           {/* <CogIcon

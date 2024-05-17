@@ -6,312 +6,276 @@ type Definition = {
 
 const DEFINITIONS: Definition[] = [
   {
-    word: 'cacha',
-    definition: 'del verbo "cachar", sinónimo de entender.',
-    example: 'cachás lo que te estoy diciendo, Juli?',
+    "word": "angel",
+    "definition": "Ser celestial enviado por Dios como mensajero.",
+    "example": "Y se le apareció un ángel del Señor, puesto en pie a la derecha del altar del incienso. - Lucas 1:11"
   },
   {
-    word: 'afano',
-    definition: 'sinónimo de robo.',
-    example:
-      'che Anita, cómo les fue en el partido?" "perdimos... pero fue alto afano, el árbitro estaba re comprado',
+    "word": "reina",
+    "definition": "Esposa de un rey o mujer que gobierna un reino.",
+    "example": "La reina de Sabá oyó de la fama que Salomón había alcanzado gracias al nombre del Señor, y vino a ponerlo a prueba con preguntas difíciles. - 1 Reyes 10:1"
   },
   {
-    word: 'morfi',
-    definition: 'sinónimo de comida.',
-    example:
-      'Eu, ya está listo el morfi?" "Falta un toque todavía Stephie, vení a ayudar',
+    "word": "jesus",
+    "definition": "Nombre del Hijo de Dios, el Mesías y Salvador del mundo según el cristianismo.",
+    "example": "Pero cuando él lo pensaba, he aquí un ángel del Señor se le apareció en sueños y le dijo: José, hijo de David, no temas recibir a María tu mujer, porque lo que en ella es engendrado, del Espíritu Santo es. Y dará a luz un hijo, y llamarás su nombre JESÚS, porque él salvará a su pueblo de sus pecados. - Mateo 1:20-21"
   },
   {
-    word: 'pucho',
-    definition: 'sinónimo de cigarrillo.',
-    example: 'Alguien me invita a un puchito?" "Na bueno, te re confiaste Euge',
+    "word": "cielo",
+    "definition": "La morada de Dios, los ángeles y los bienaventurados después de la segunda venida de Cristo.",
+    "example": "Al principio creó Dios los cielos y la tierra. - Génesis 1:1"
   },
   {
-    word: 'bardo',
-    definition: 'sinónimo de lío, quilombo.',
-    example:
-      'Eu Lucas no sabés, solo una persona aprobó el parcial" "Uf, se le va a armar alto bardo al profesor',
+    "word": "Padre",
+    "definition": "Término usado para referirse a Dios como creador y protector.",
+    "example": "Y si invocáis por Padre a aquel que sin acepción de personas juzga según la obra de cada uno, conducíos en temor todo el tiempo de vuestra peregrinación. - 1 Pedro 1:17"
   },
   {
-    word: 'crack',
-    definition: 'dícese de alguien que es muy bueno para algo.',
-    example:
-      'Boludle, viste cómo toca la guitarra Guille?" "Siii, tremendo, es un crack',
+    "word": "David",
+    "definition": "Segundo rey de Israel, conocido por derrotar a Goliat y por su reinado justo.",
+    "example": "Y sucedió que, cuando Saúl volvió de perseguir a los filisteos, le dieron aviso, diciendo: He aquí David está en el desierto de Engadi. - 1 Samuel 24:1"
   },
   {
-    word: 'mufar',
-    definition: 'causar mala suerte.',
-    example:
-      'El clima va a estar súper lindo en la costa la semana que viene!" "Noo Ceci que la vas a mufar, tocate la teta izquierda',
+    "word": "Rezar",
+    "definition": "Dirigirse a Dios con palabras de súplica, adoración o agradecimiento.",
+    "example": "Mas tú, cuando ores, entra en tu aposento, y cerrada la puerta, ora a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público. - Mateo 6:6"
   },
   {
-    word: 'ñaupa',
-    definition: 'sinónimo de antiguo.',
-    example:
-      'Che abu, me re gustan tus zapatos, están re a la moda" "No me digas... Si son del año del ñaupa!',
+    "word": "Libro",
+    "definition": "Conjunto de hojas de papel u otro material con texto escrito, como la Biblia.",
+    "example": "Entonces dijo: Aquí vengo, oh Dios, para hacer tu voluntad, como en el rollo del libro está escrito de mí. - Hebreos 10:7"
   },
   {
-    word: 'forro',
-    definition: 'sinónimo de profiláctico, sinónimo de mala persona.',
-    example:
-      'Boludle, anoche en el boliche un chabón me robó, y me sacó hasta el forro que tenía en la billetera..." "Hay que ser forro eh, posta me decís?',
+    "word": "Ester",
+    "definition": "Una reina judía de Persia que salvó a su pueblo de la destrucción.",
+    "example": "Y así la joven Ester ganó el favor de todos los que la veían. - Ester 2:15"
   },
   {
-    word: 'ladri',
-    definition: 'persona que obtiene éxito sin esforzarse.',
-    example:
-      'Santi no hizo nada del TP y aprobó gracias a nosotras, que bronca" "Y si Lula, no se podía esperar otra cosa de ese ladri',
+    "word": "Isaac",
+    "definition": "Hijo de Abraham y Sara, y padre de Jacob y Esaú.",
+    "example": "Entonces dijo Dios: Ciertamente Sara tu mujer te dará a luz un hijo, y llamarás su nombre Isaac. - Génesis 17:19"
   },
   {
-    word: 'boton',
-    definition: 'sinónimo de delator, alcahuete.',
-    example:
-      'Trini te acabaste todas las galletitas otra vez, le voy a decir a mamá" "Nooooo Fede dale no seas botón',
+    "word": "Santo",
+    "definition": "Algo o alguien que es sagrado o consagrado a Dios.",
+    "example": "Sed santos, porque yo soy santo. - Levítico 11:44"
   },
   {
-    word: 'pando',
-    definition:
-      'sinónimo de playo, bajo en profunidad. (De uso popular en Mendoza.)',
-    example:
-      'Maaa, Sofi no me presta el flota flota!!" "Basta eh, que los hago venir a lo pando de la pile',
+    "word": "Salmo",
+    "definition": "Canto o poema sagrado, especialmente los del libro de los Salmos en la Biblia.",
+    "example": "Jehová es mi pastor; nada me faltará. - Salmo 23:1"
   },
   {
-    word: 'pingo',
-    definition: 'sinónimo de pene.',
-    example:
-      'ugh odio la música de Taylor Swift, no sé como te gusta tanto Oli" "con todo respeto Juan, chupame el pingo',
+    "word": "Trigo",
+    "definition": "Cereal que es una de las principales fuentes de alimento; simbólicamente, representa abundancia y bendición.",
+    "example": "Si el grano de trigo no cae en tierra y muere, queda solo; pero si muere, lleva mucho fruto. - Juan 12:24"
   },
   {
-    word: 'bondi',
-    definition: 'sinónimo de colectivo, bus.',
-    example:
-      'che Sebas, media pila, por dónde andás?" "sigo en la parada del bondi, te juro que ya estuve esperando como por media hora!',
+    "word": "Mujer",
+    "definition": "Persona del sexo femenino, a menudo mencionada en diversas historias y roles en la Biblia.",
+    "example": "Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y mujer los creó. - Génesis 1:27"
   },
   {
-    word: 'guita',
-    definition: 'sinónimo de dinero.',
-    example:
-      'hola Ale, salimos mañana?" "no puedo, me gasté toda la guita del mes en el queso rallado reggianito de la serenisma',
+    "word": "Éxodo",
+    "definition": "Segundo libro de la Biblia, que narra la salida de los israelitas de Egipto.",
+    "example": "Ahora pues, ven, y te enviaré a Faraón, para que saques de Egipto a mi pueblo, los hijos de Israel. - Éxodo 3:10"
   },
   {
-    word: 'ñoqui',
-    definition: 'aquel que cobra un sueldo sin trabajar',
-    example:
-      'che Mati ya jugaste al boludle de hoy?" "si, y en horario de trabajo. creo que me convertí en un ñoqui',
+    "word": "Reino",
+    "definition": "Territorio o país gobernado por un rey o reina; en la Biblia, a menudo se refiere al Reino de Dios.",
+    "example": "Buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas. - Mateo 6:33"
   },
   {
-    word: 'upite',
-    definition: 'sinónimo de cola, trasero.',
-    example:
-      'che alguno vio el control remoto?" "hmm ni idea" "a ver Ivo, levantá el upite',
+    "word": "Salud",
+    "definition": "Estado de bienestar físico y espiritual.",
+    "example": "No seas sabio en tu propia opinión; más bien, teme al Señor y huye del mal. Esto infundirá salud a tu cuerpo y fortalecerá tu ser. - Proverbios 3:7-8"
   },
   {
-    word: 'gamba',
-    definition: 'sinónimo de pierna.',
-    example:
-      'dale Luly, que casi llegamos al lago!!" "si si pero vayamos más lento Agus, mis gambas no dan más',
+    "word": "Temor",
+    "definition": "Sentimiento de miedo o reverencia, especialmente hacia Dios.",
+    "example": "El temor de Jehová es el principio de la sabiduría; los insensatos desprecian la sabiduría y la enseñanza. - Proverbios 1:7"
   },
   {
-    word: 'bocha',
-    definition: 'sinónimo de un montón.',
-    example:
-      'che Tito, al final vamos a su casa a cenar hoy. qué llevamos?" "no se preocupen, ya cocinamos una bocha de empanadas. traigan helado si quieren',
+    "word": "Monte",
+    "definition": "Elevación natural del terreno; en la Biblia, a menudo es un lugar de encuentro con Dios.",
+    "example": "Cuando Moisés subió al monte, la nube cubrió el monte. - Éxodo 24:15"
   },
   {
-    word: 'asado',
-    definition: 'carne vacuna cocinada lentamente a las brasas.',
-    example:
-      'che por qué no invitaron a Martín este finde?" "es que no aplaudió a Javi por el asado que hizo el domingo, mientras todo el resto aplaudíamos. medio tensa la cosa',
+    "word": "sanos",
+    "definition": "(personas) Que gozan de perfecta salud.",
+    "example": "Al oír esto, Jesús les contestó: —No son los sanos los que necesitan médico, sino los enfermos. - Mateo 9:12"
   },
   {
-    word: 'orsai',
-    definition: 'posición adelantada, off-side.',
-    example:
-      'naaaa no me jodas, eso fue orsai!!" "lpm siempre robando este equipo',
+    "word": "Olivo",
+    "definition": "Árbol cuyo fruto es la aceituna, y del cual se extrae el aceite de oliva.",
+    "example": "Y el cuervo no volvió a él; pero envió de sí una paloma, para ver si las aguas se habían retirado de sobre la faz de la tierra. - Génesis 8:11"
   },
   {
-    word: 'punga',
-    definition: 'ladrón que hurta objetos de carteras o abrigos.',
-    example:
-      'chau Ma, me voy al centro!!" "adiós Lina! tené cuidado con los pungas, acordate de no guardar el celu en el bolsillo',
+    "word": "Hades",
+    "definition": 'Del griego hádēs, se traduce como "muerte" o "sepulcro", lugar físico donde descansan los muertos.',
+    "example": "Y la muerte y el Hades fueron lanzados al lago de fuego. Esta es la muerte segunda. - Apocalipsis 20:14"
   },
   {
-    word: 'ceibo',
-    definition: 'árbol de la flor nacional del mejor país del mundo.',
-    example:
-      'hola Mónica! por casualidad viste a Wendy 🐈?" "sabés que no? seguro anda durmiendo sobre el ceibo de los vecinos!',
+    "word": "Jonas",
+    "definition": "Profeta del Antiguo Testamento conocido por ser tragado por un gran pez.",
+    "example": "Pero Jehová tenía preparado un gran pez que tragase a Jonás; y estuvo Jonás en el vientre del pez tres días y tres noches. - Jonás 1:17"
   },
   {
-    word: 'facha',
-    definition:
-      'se usa para referirse a alguien bien arreglado, con buen aspecto.',
-    example:
-      'Pablo, te gusta como me quedo el corte?" "te quedo bárbaro, alta facha amigo! a cual peluquería fuiste?',
+    "word": "María",
+    "definition": "Nombre de varias mujeres en la Biblia, incluida la madre de Jesús.",
+    "example": "Y entrando el ángel en donde ella estaba, dijo: ¡Salve, muy favorecida! El Señor es contigo; bendita tú entre las mujeres. - Lucas 1:28"
   },
   {
-    word: 'skere',
-    definition: 'dícese de algo que va a estar bueno, de "lets get it"',
-    example:
-      'hola Fran, salimos a comer afuera hoy no? skerry!!" "jajaja es SKERE abu, pero sí! tengo muchas ganas!',
+    "word": "Betel",
+    "definition": "Lugar donde Jacob tuvo una visión de una escalera al cielo.",
+    "example": "Y llamó el nombre de aquel lugar Betel, aunque Luz era el nombre de la ciudad primero. - Génesis 28:19"
   },
   {
-    word: 'lompa',
-    definition: 'sinónimo de pantalón.',
-    example:
-      'che Pau se nota mucho la mancha que tengo en el lompa? cometí un error al sentarme en el pasto" "noo ni se nota, no te preocupes!',
+    "word": "Cesar",
+    "definition": "Título de los emperadores romanos, mencionado en el Nuevo Testamento.",
+    "example": "Entonces les dijo: Dad, pues, a César lo que es de César, y a Dios lo que es de Dios. - Mateo 22:21"
   },
   {
-    word: 'truco',
-    definition: 'juego de cartas popular en el mejor país.',
-    example:
-      'Solchi, le decimos a las chicas de ir a la plaza?" "dale, y llevemos cartas pa jugar al truco!',
+    "word": "Jacob",
+    "definition": "Patriarca bíblico, hijo de Isaac y Rebeca, y padre de las doce tribus de Israel.",
+    "example": "Y le dijo Dios: Yo soy el Dios Todopoderoso: crece y multiplícate; una nación y conjunto de naciones procederán de ti, y reyes saldrán de tus lomos. - Génesis 35:11"
   },
   {
-    word: 'choto',
-    definition: 'sinóninimo de algo feo, no agradable. (enviada por @camdesk)',
-    example:
-      'que choto que estuvo hoy el boludle!" " posta, decí que lo saqué en 5 intentos',
+    "word": "Elias",
+    "definition": "Profeta del Antiguo Testamento conocido por su confrontación con los profetas de Baal.",
+    "example": "Entonces Elías dijo a todo el pueblo: Acercaos a mí. Y todo el pueblo se acercó a él. Y él arregló el altar de Jehová que estaba arruinado. - 1 Reyes 18:30"
   },
   {
-    word: 'pique',
-    definition: 'dícese de un breve corrida o trote hacia algún lugar.',
-    example:
-      'che Maru, a que no te echás un pique al súper para comprar unos tomates?" "dale Pa, me das plata?',
+    "word": "Saulo",
+    "definition": "Nombre hebreo del apóstol Pablo antes de su conversión al cristianismo.",
+    "example": "Y Saulo, respirando aún amenazas y muerte contra los discípulos del Señor, vino al sumo sacerdote. - Hechos 9:1"
   },
   {
-    word: 'zapan',
-    definition: 'panza.',
-    example:
-      'Pedro ya estamos listos, vamos?" "vayan yendo, me duele un poco la zapán, prefiero quedarme',
+    "word": "Judas",
+    "definition": "Nombre de varios personajes bíblicos, incluido Judas Iscariote, el apóstol que traicionó a Jesús.",
+    "example": "Entonces Judas Iscariote, uno de los doce, fue a los principales sacerdotes para entregárselo. - Marcos 14:10"
   },
   {
-    word: 'banda',
-    definition: 'mucha cantidad',
-    example:
-      'traje coca para el fernet!" "uuuf, pero ya tenemos una banda de coca Lean',
+    "word": "Justo",
+    "definition": "Persona que vive de acuerdo con la justicia y la rectitud, conforme a la voluntad de Dios.",
+    "example": "Porque el justo Jehová ama la justicia; el hombre recto mirará su rostro. - Salmo 11:7"
   },
   {
-    word: 'chivo',
-    definition: 'olor corporal',
-    example:
-      'tengo ganas de volver a clase de manera presencial!" "postaa, aunque no extraño el olor a chivo del bondi',
+    "word": "Carne",
+    "definition": "El cuerpo humano y su naturaleza caída, a menudo contrastada con el espíritu.",
+    "example": "Y aquel Verbo fue hecho carne, y habitó entre nosotros. - Juan 1:14"
   },
   {
-    word: 'gorra',
-    definition: 'policía, vigilante (despectivo)',
-    example: 'che Justi, no se puede fumar acá" "dale amiga no seas gorra!',
+    "word": "Pablo",
+    "definition": "Apóstol del Nuevo Testamento, conocido por sus cartas y su labor misionera.",
+    "example": "Saulo, que también es Pablo, lleno del Espíritu Santo, fijando en él los ojos, dijo: - Hechos 13:9"
   },
   {
-    word: 'funyi',
-    definition: 'sinónimo de sombrero',
-    example:
-      'eu como vas con las clases de tango?" "bárbaro, en cualquier momento me compro el funyi',
+    "word": "Pedro",
+    "definition": "Uno de los apóstoles de Jesús, también conocido como Simón Pedro.",
+    "example": "Y yo también te digo, que tú eres Pedro, y sobre esta roca edificaré mi iglesia. - Mateo 16:18"
   },
   {
-    word: 'piola',
-    definition: 'dícese de algo bueno o interesante.',
-    example:
-      'ya escuchaste a la banda de rock que te pasé?" "ehhh.. todavía no" "dale Manuuu, escuchala que está piola!',
+    "word": "Hijos",
+    "definition": "Descendientes directos de una persona, frecuentemente mencionado en genealogías bíblicas.",
+    "example": "He aquí, herencia de Jehová son los hijos; cosa de estima el fruto del vientre. - Salmo 127:3"
   },
   {
-    word: 'grosa',
-    definition: 'dícese de una persona genial, o muy buena (en algo).',
-    example:
-      'che conociste a Flor al final, no? qué tal te pareció?" "siii! una grosa total! la tiene re clara',
+    "word": "Grano",
+    "definition": "Semilla de cereales; en la Biblia, a menudo representa provisión y bendición.",
+    "example": "Si el grano de trigo no cae en tierra y muere, queda solo; pero si muere, lleva mucho fruto. - Juan 12:24"
   },
   {
-    word: 'guaso',
-    definition: 'hombre, fulano, tipo (Córdoba).',
-    example:
-      'Agus, escuchaste la barbaridad que dijo Miguel? que ignorante por dios!" "si... la verdad, un pobre guaso',
+    "word": "Huerto",
+    "definition": "Área de terreno donde se cultivan plantas, mencionada en el contexto del Jardín del Edén.",
+    "example": "Y plantó Jehová Dios un huerto en Edén, al oriente; y puso allí al hombre que había formado. - Génesis 2:8"
   },
   {
-    word: 'zafar',
-    definition: 'liberarse de una situación con lo mínimo indispensable.',
-    example:
-      'no quiero bajarla, pero rendís el examen el lunes no?" "si... pero no entiendo mucho el tema, dudo que vaya a zafar',
+    "word": "Perla",
+    "definition": "Gema preciosa mencionada en parábolas de Jesús.",
+    "example": "También el reino de los cielos es semejante a un mercader que busca buenas perlas. - Mateo 13:45"
   },
   {
-    word: 'pinta',
-    definition: 'buena apariencia.',
-    example:
-      'uuuf esos ravioles tienen muy buena pinta! los hiciste vos?" "ojalá!! los compré acá a la vuelta',
+    "word": "Ramos",
+    "definition": "Ramas de árboles, usadas en la celebración de la entrada triunfal de Jesús en Jerusalén.",
+    "example": "Tomaron ramos de palmera, y salieron a recibirle, y clamaban: ¡Hosanna! - Juan 12:13"
   },
   {
-    word: 'minga',
-    definition: 'usase para negar lo que dice alguien fuertemente.',
-    example:
-      'Trini me prestás la remera de encaje para la salida de hoy?" "minga!! la última vez la manchaste toda',
+    "word": "Reyes",
+    "definition": "Gobernantes de un reino, mencionados frecuentemente en la Biblia.",
+    "example": "Y él entregará sus reyes en tu mano, y tú destruirás el nombre de ellos de debajo del cielo; nadie te hará frente hasta que los destruyas. - Deuteronomio 7:24"
   },
   {
-    word: 'lorca',
-    definition: 'vesre de "calor".',
-    example:
-      'uyy, que lorca que hace afuera!" "en serio, no entiendo al "team verano"',
+    "word": "Cañas",
+    "definition": "Plantas de tallo alto y delgado, mencionadas en la Biblia.",
+    "example": "Y no quebrará la caña cascada, ni apagará el pábilo que humeare. - Mateo 12:20"
   },
   {
-    word: 'yerba',
-    definition:
-      'hojas desecadas, ligeramente tostadas usadas para elaborar el mate.',
-    example:
-      'vamos afuera a tomar unos mates? está lindo el dia" "dale, esperame que voy al super a comprar yerba y vamos',
+    "word": "Pacto",
+    "definition": "Acuerdo solemne entre Dios y su pueblo.",
+    "example": "Estableceré mi pacto entre mí y ti, y tu descendencia después de ti en sus generaciones por pacto perpetuo. - Génesis 17:7"
   },
   {
-    word: 'garra',
-    definition: 'sinónimo de esfuerzo (en deportes).',
-    example:
-      'viste la garra que puso Messi? y después algunos lo critican..." "hay gente que habla por hablar nomás',
+    "word": "Siria",
+    "definition": "Antigua nación mencionada frecuentemente en el Antiguo Testamento.",
+    "example": "Porque el rey de Siria ha acordado venir contra ti con Efraín y con el hijo de Remalías. - Isaías 7:5"
   },
   {
-    word: 'nashe',
-    definition:
-      'dícese de algo que está muy bueno; palabra popularizada por el youtuber Coscu.',
-    example:
-      'ayer mire el twitch del Spreen por primera vez Pa, estuvo re nashee" "no se qué es nalle y quién es Esprin, me explicás?',
+    "word": "Jairo",
+    "definition": "Un jefe de la sinagoga que pidió a Jesús que sanara a su hija.",
+    "example": "Entonces vino uno de los principales de la sinagoga, llamado Jairo; y luego que le vio, se postró a sus pies. - Marcos 5:22"
   },
   {
-    word: 'rajar',
-    definition: 'irse rápidamente.',
-    example:
-      'che Mery, parece que en cualquier momento se larga a llover no?" "posta eh, juntemos las cosas y rajemos',
+    "word": "Marta",
+    "definition": "Hermana de María y Lázaro, conocida por su servicio a Jesús.",
+    "example": "Pero Marta se preocupaba con muchos quehaceres, y acercándose, dijo: Señor, ¿no te da cuidado que mi hermana me deje servir sola? Dile, pues, que me ayude. - Lucas 10:40"
   },
   {
-    word: 'fulbo',
-    definition: 'fútbol.',
-    example:
-      'eu Juani, te copás el domingo venir a jugar un fulbo con lospi?" "dalee, dónde nos juntamos?',
+    "word": "Felix",
+    "definition": "Procurador romano mencionado en el Nuevo Testamento.",
+    "example": "Pero Félix, teniendo un conocimiento más exacto de este Camino, les aplazó, diciendo: Cuando descendiere el tribuno Lisias, acabaré de conocer de vuestro asunto. - Hechos 24:22"
   },
   {
-    word: 'plomo',
-    definition: 'dícese de una persona o cosa molesta, pesada.',
-    example:
-      'me crucé a José en la calle y me tuvo ahí dando charla por media hora, no pude escapar" "jodemeee, qué plomo!',
+    "word": "Belén",
+    "definition": "Ciudad donde nació Jesús.",
+    "example": "Y José subió de Galilea, de la ciudad de Nazaret, a Judea, a la ciudad de David, que se llama Belén. - Lucas 2:4"
   },
   {
-    word: 'bajon',
-    definition: 'depresión, falta de ánimo.',
-    example:
-      'che loco, si salimos segundos en la fase de grupos del mundial puede que juguemos contra Francia en octavos" "naaaaa que bajón',
+    "word": "Rubén",
+    "definition": "El primer hijo de Jacob y Lea, y uno de los doce patriarcas de Israel.",
+    "example": "Y aconteció que cuando Israel habitaba en aquella tierra, Rubén fue y durmió con Bilha, la concubina de su padre; lo cual llegó a saber Israel. - Génesis 35:22"
   },
   {
-    word: 'napia',
-    definition: 'sinónimo de nariz.',
-    example:
-      'ayer me levanté de la cama medio rápido. me desmayé y me di la napia contra el piso" "no wacho que dolor',
+    "word": "Caleb",
+    "definition": "Uno de los doce espías enviados por Moisés a Canaán, conocido por su fe y valentía.",
+    "example": "Entonces Caleb hizo callar al pueblo delante de Moisés, y dijo: Subamos luego, y tomemos posesión de ella; porque más podremos nosotros que ellos. - Números 13:30"
   },
   {
-    word: 'curro',
-    definition: 'sinónimo de estafa, o trabajo fácil para ganar dinero.',
-    example:
-      'che en qué anda laburando Martín estos días?" "ehh no sé con qué curro anda ahora, siempre encuentra algo diferente para vender',
+    "word": "Cetro",
+    "definition": "Vara o bastón que simboliza la autoridad de un rey.",
+    "example": "No será quitado el cetro de Judá, ni el legislador de entre sus pies, hasta que venga Siloh; y a él se congregarán los pueblos. - Génesis 49:10"
+  },
+  { 
+    "word": "Balac", 
+    "definition": "Rey de Moab que intentó maldecir a Israel a través del profeta Balaam.",
+    "example": "Y Balac hijo de Zipor era entonces rey de Moab. - Números 22:4" 
+  },
+  { 
+    "word": "Lobos",
+    "definition": "Animales mencionados en la Biblia como símbolos de ferocidad.",
+    "example": "He aquí, yo os envío como a ovejas en medio de lobos; sed, pues, prudentes como serpientes, y sencillos como palomas. - Mateo 10:16" 
+  },
+  { 
+    "word": "Lugar",
+    "definition": "Espacio ocupado o que puede ser ocupado por un cuerpo cualquiera.",
+    "example": "En la casa de mi Padre muchas moradas hay; si así no fuera, yo os lo hubiera dicho; voy, pues, a preparar lugar para vosotros. - Juan 14:2-4" 
   }
 ]
 
 let WORDS: string[] = []
 
 DEFINITIONS.forEach(function (item, index) {
-  WORDS.push(item.word)
+  WORDS.push(item.word.toLocaleLowerCase())
 })
 
 export { WORDS, DEFINITIONS }
