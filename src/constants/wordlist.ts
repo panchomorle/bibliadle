@@ -76,7 +76,7 @@ const DEFINITIONS: Definition[] = [
     "example": "Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y mujer los creó. - Génesis 1:27"
   },
   {
-    "word": "Éxodo",
+    "word": "exodo",
     "definition": "Segundo libro de la Biblia, que narra la salida de los israelitas de Egipto.",
     "example": "Ahora pues, ven, y te enviaré a Faraón, para que saques de Egipto a mi pueblo, los hijos de Israel. - Éxodo 3:10"
   },
@@ -121,7 +121,7 @@ const DEFINITIONS: Definition[] = [
     "example": "Pero Jehová tenía preparado un gran pez que tragase a Jonás; y estuvo Jonás en el vientre del pez tres días y tres noches. - Jonás 1:17"
   },
   {
-    "word": "María",
+    "word": "Maria",
     "definition": "Nombre de varias mujeres en la Biblia, incluida la madre de Jesús.",
     "example": "Y entrando el ángel en donde ella estaba, dijo: ¡Salve, muy favorecida! El Señor es contigo; bendita tú entre las mujeres. - Lucas 1:28"
   },
@@ -163,7 +163,7 @@ const DEFINITIONS: Definition[] = [
   {
     "word": "Carne",
     "definition": "El cuerpo humano y su naturaleza caída, a menudo contrastada con el espíritu.",
-    "example": "Y aquel Verbo fue hecho carne, y habitó entre nosotros. - Juan 1:14"
+    "example": "En esto conoced el Espíritu de Dios: Todo espíritu que confiesa que Jesucristo ha venido en carne, es de Dios; - 1 Juan 4:2"
   },
   {
     "word": "Pablo",
@@ -184,11 +184,6 @@ const DEFINITIONS: Definition[] = [
     "word": "Grano",
     "definition": "Semilla de cereales; en la Biblia, a menudo representa provisión y bendición.",
     "example": "Si el grano de trigo no cae en tierra y muere, queda solo; pero si muere, lleva mucho fruto. - Juan 12:24"
-  },
-  {
-    "word": "Huerto",
-    "definition": "Área de terreno donde se cultivan plantas, mencionada en el contexto del Jardín del Edén.",
-    "example": "Y plantó Jehová Dios un huerto en Edén, al oriente; y puso allí al hombre que había formado. - Génesis 2:8"
   },
   {
     "word": "Perla",
@@ -236,12 +231,12 @@ const DEFINITIONS: Definition[] = [
     "example": "Pero Félix, teniendo un conocimiento más exacto de este Camino, les aplazó, diciendo: Cuando descendiere el tribuno Lisias, acabaré de conocer de vuestro asunto. - Hechos 24:22"
   },
   {
-    "word": "Belén",
+    "word": "Belen",
     "definition": "Ciudad donde nació Jesús.",
     "example": "Y José subió de Galilea, de la ciudad de Nazaret, a Judea, a la ciudad de David, que se llama Belén. - Lucas 2:4"
   },
   {
-    "word": "Rubén",
+    "word": "Ruben",
     "definition": "El primer hijo de Jacob y Lea, y uno de los doce patriarcas de Israel.",
     "example": "Y aconteció que cuando Israel habitaba en aquella tierra, Rubén fue y durmió con Bilha, la concubina de su padre; lo cual llegó a saber Israel. - Génesis 35:22"
   },
@@ -274,7 +269,33 @@ const DEFINITIONS: Definition[] = [
     "word": "amigo",
     "definition": "Afecto personal, puro y desinteresado, compartido con otra persona, que nace y se fortalece con el trato.",
     "example": "Nadie tiene amor más grande que el dar la vida por sus amigos. - Juan 15:13" 
-  }
+  },
+  { 
+    "word": "josue",
+    "definition": "Líder israelita sucesor de Moisés, conocido por guiar a los israelitas en la conquista de Canaán (tierra prometida).",
+    "example": "Después de la muerte de Moisés siervo de Jehová, Jehová habló a Josué hijo de Nun, servidor de Moisés... - Josué 1:1" 
+  },
+  { 
+    "word": "efeso",
+    "definition": "Antigua ciudad de Asia Menor y primera de las 7 iglesias de la profecía de Apocalipsis.",
+    "example": "Escribe esto al ángel de la iglesia de Éfeso [...] Yo sé todo lo que haces, que trabajas duro y nunca te rindes, y que no aceptas a los malos. - Apoc. 2:1-2" 
+  },
+  {
+    "word": "Babel",
+    "definition": "Ciudad mencionada en el Génesis, donde se intentó construir una torre que llegara al cielo.",
+    "example": "Y dijeron: Vamos, edifiquémonos una ciudad y una torre cuya cúspide llegue al cielo, y hagámonos un nombre, por si fuéremos esparcidos sobre la faz de toda la tierra. - Génesis 11:4"
+  },
+  {
+    "word": "Lidia",
+    "definition": "Mujer piadosa convertida al cristianismo en el Nuevo Testamento.",
+    "example": "Y una mujer llamada Lidia, vendedora de púrpura, de la ciudad de Tiatira, que adoraba a Dios, estaba oyendo; y el Señor abrió el corazón de ella para que estuviese atenta a lo que Pablo decía. - Hechos 16:14"
+  },
+  {
+    "word": "Siloe",
+    "definition": "Estanque en Jerusalén mencionado en el Nuevo Testamento.",
+    "example": "Jesús dijo: Ve, lávate en el estanque de Siloé (que significa: Enviado). Entonces fue, se lavó, y volvió viendo. - Juan 9:7"
+  },
+
 ]
 
 let WORDS: string[] = []
