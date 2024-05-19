@@ -295,6 +295,11 @@ const DEFINITIONS: Definition[] = [
     "definition": "Estanque en Jerusalén mencionado en el Nuevo Testamento.",
     "example": "Jesús dijo: Ve, lávate en el estanque de Siloé (que significa: Enviado). Entonces fue, se lavó, y volvió viendo. - Juan 9:7"
   },
+  {
+    "word": "varon",
+    "definition": "Persona del sexo masculino. A menudo mencionado en la biblia en diversas historias. Jesús fue uno.",
+    "example": "Despreciado y desechado entre los hombres, varón de dolores, experimentado en quebranto; y como que escondimos de él el rostro, fue menospreciado, y no lo estimamos. - Isaías 53:3"
+  },
 
 ]
 
