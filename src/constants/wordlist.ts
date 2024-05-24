@@ -27,8 +27,8 @@ const DEFINITIONS: Definition[] = [
   },
   {
     "word": "Padre",
-    "definition": "Término usado para referirse a Dios como creador y protector.",
-    "example": "Y si invocáis por Padre a aquel que sin acepción de personas juzga según la obra de cada uno, conducíos en temor todo el tiempo de vuestra peregrinación. - 1 Pedro 1:17"
+    "definition": "Cabeza de una descendencia, familia o pueblo. Autor, creador o fundador de algo.",
+    "example": "[palabras de Jesús] Padre, aquellos que me has dado, quiero que donde yo estoy, también ellos estén conmigo, para que vean mi gloria que me has dado; porque me has amado desde antes de la fundación del mundo. - Juan 17:24"
   },
   {
     "word": "David",
@@ -36,9 +36,9 @@ const DEFINITIONS: Definition[] = [
     "example": "Y sucedió que, cuando Saúl volvió de perseguir a los filisteos, le dieron aviso, diciendo: He aquí David está en el desierto de Engadi. - 1 Samuel 24:1"
   },
   {
-    "word": "Rezar",
-    "definition": "Dirigirse a Dios con palabras de súplica, adoración o agradecimiento.",
-    "example": "Mas tú, cuando ores, entra en tu aposento, y cerrada la puerta, ora a tu Padre que está en secreto; y tu Padre que ve en lo secreto te recompensará en público. - Mateo 6:6"
+    "word": "Orare",
+    "definition": "[futuro] Dirigirse a Dios con palabras de súplica, adoración o agradecimiento.",
+    "example": "¿Qué, pues? Oraré con el espíritu, pero oraré también con el entendimiento; cantaré con el espíritu, pero cantaré también con el entendimiento. - 1 Corintios 14:15"
   },
   {
     "word": "Libro",
@@ -57,7 +57,7 @@ const DEFINITIONS: Definition[] = [
   },
   {
     "word": "Santo",
-    "definition": "Algo o alguien que es sagrado o consagrado a Dios.",
+    "definition": "Del hebreo kadosh (קדוש). Separado. Apartado de toda idolatria , inmundicia, de toda contaminación.",
     "example": "Sed santos, porque yo soy santo. - Levítico 11:44"
   },
   {
